@@ -1,5 +1,5 @@
 **Clone Repo**
-    -git clone 
+    -git clone https://github.com/Piyush-k-singh/MultiPDFchatMistral-7B.git
 
 **Install Requirment**
     -pip install -r requirements.txt
