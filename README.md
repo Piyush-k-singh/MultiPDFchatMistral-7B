@@ -9,3 +9,8 @@
 
 **Run app.py**
     -streamlit run app.py
+
+**Architecture**
+
+
+![LLM_architecture](https://github.com/Piyush-k-singh/MultiPDFchatMistral-7B/assets/41288727/5d58017e-33f8-4bc6-8ff0-16c05fe380b2)
